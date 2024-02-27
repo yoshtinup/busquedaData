@@ -5,6 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image: url('./raining_city_downtown_artwork-wallpaper-2048x1152.jpg');
 }
 
 code {
